@@ -47,13 +47,13 @@ First Header | Second Header
 table item 1 | table item 2
 table item 3 | table item 4
 
-sha-1 commit: 16c999e8c71134401a78d4d46435517b2271d6ac
+sha-1 commit: c249be51a5728823b57e84a76c12a2d47465320e
 
 @Adam-Torek
 
 Github link: https://www.github.com/
 
-References #1
+#1
 
 ~~This is strikethrough text~~
 
